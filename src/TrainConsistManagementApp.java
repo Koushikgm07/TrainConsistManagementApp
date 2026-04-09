@@ -1,4 +1,3 @@
-git init
-git branch -M main
-git remote add origin https://github.com/Koushikgm07/TrainConsistManagementApp.git
-git remote -v
+git add .
+git commit -m "UC7: Sort Bogies by Capacity (Comparator) "
+git push origin feature/UC7
